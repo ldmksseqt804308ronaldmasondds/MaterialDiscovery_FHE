@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\src-auth-import\customer-model-types.txt
+// Generated at: 2025-10-16T15:11:57.138Z
